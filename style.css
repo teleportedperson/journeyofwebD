@@ -1,0 +1,29 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,100,700,900);
+
+.header {
+  width: 100%;
+  padding: 10px;px 0;
+  letter-spacing: 5px;
+  text-align: center;
+  background: #fefb70;
+  color: rgb(6, 0, 0);
+  font-weight: 100;
+  font-family: 'Calibri';
+}
+p {
+  font-size: 1.0em;
+  font-weight: 100;
+  letter-spacing: 2px;
+  text-align: center;
+  
+}
+h2 {
+  width: 100%;
+  padding: 10px;px 0;
+  letter-spacing: 5px;
+  text-align: center;
+  background: #fefb70;
+  color: rgb(6, 0, 0);
+  font-family: 'Calibri';
+
+}
